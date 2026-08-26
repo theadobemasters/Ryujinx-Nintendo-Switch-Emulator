@@ -1,0 +1,25 @@
+{
+  "gpu": {
+    "backend": "vulkan",
+    "resolution_scale": 2,
+    "async_shader_build": true,
+    "shader_cache": true
+  },
+  "system": {
+    "keys_path": "system/prod.keys",
+    "firmware_path": "system/firmware/",
+    "firmware_version": "18.x"
+  },
+  "ldn": {
+    "enabled": false,
+    "max_players": 8
+  },
+  "mods": {
+    "layeredfs_enabled": true,
+    "mods_dir": "mods/"
+  },
+  "audio": {
+    "backend": "sdl2"
+  },
+  "_rev": "rev-b8f3c1-20260825"
+}

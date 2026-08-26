@@ -1,0 +1,31 @@
+# rev-b8f3c1-20260825
+Ryujinx Emu - Setup Guide
+=========================
+
+1. DOWNLOAD
+   ryujinx download from the Releases page - free, open source.
+
+2. KEYS
+   dump prod.keys from your own Switch with Lockpick_RCM and place
+   the file in system/. the keys ryujinx and prod keys ryujinx reddit
+   threads document the process. keys are never shared here.
+
+3. FIRMWARE
+   install firmware 18.x via Tools > Install Firmware, or drop the
+   dump into system/firmware/. ryujinx firmware and keys both come
+   from your own console - the ryujinx firmware download reddit wiki
+   explains dumping.
+
+4. GAMES
+   add your dump folder in Settings. NSP and XCI are detected
+   automatically.
+
+5. PLAY
+   vulkan backend + async shaders recommended. check games.cfg in
+   data/ for per-title tweaks.
+
+NOTES
+- ryujinx canary features are included in this build
+- ryujinx mac: native Apple Silicon build via MoltenVK
+- ryujinx android / ryujinx apk: no official build - use eden on phones
+- LDN multiplayer: enable in settings, host or join sessions
